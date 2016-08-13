@@ -22,10 +22,11 @@ http://shopify.github.com/dashing
 ##update ideas
 - quotes from members at theCO
 - current temperature (inside/outside)
+- # of visitors on website (last month/right now)
 - # of devices on theCO's network
 - network bandwidth usage
 - last speed test results
 - network status
 - items 3D printed last month
 - countdown until bus departs/arrives again
-- countdown theCO's birthday
+- countdown to next event (theCO birthday, COstarters, COmmunicate)
