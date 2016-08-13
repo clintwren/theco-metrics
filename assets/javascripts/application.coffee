@@ -9,7 +9,7 @@ console.log("Yeah! The dashboard has started!")
 
 Dashing.on 'ready', ->
   Dashing.widget_margins ||= [7, 7]
-  Dashing.widget_base_dimensions ||= [300, 360]
+  Dashing.widget_base_dimensions ||= [350, 460]
   Dashing.numColumns ||= 4
 
   contentWidth = (Dashing.widget_base_dimensions[0] + Dashing.widget_margins[0] * 2) * Dashing.numColumns
