@@ -17,3 +17,15 @@
 
 Check out Dashing for changes to widgets:
 http://shopify.github.com/dashing
+
+
+##update ideas
+- quotes from members at theCO
+- current temperature (inside/outside)
+- # of devices on theCO's network
+- network bandwidth usage
+- last speed test results
+- network status
+- items 3D printed last month
+- countdown until bus departs/arrives again
+- countdown theCO's birthday
