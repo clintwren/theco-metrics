@@ -98,11 +98,17 @@ h1 {
   font-size: 43px;
   font-weight: 400;
 }
+h1.title {
+  font-size: 55px;
+}
 h2 {
   text-transform: uppercase;
   font-size: 93px;
   font-weight: 700;
   color: $text-color;
+}
+h1.value {
+  font-size: 110px;
 }
 h3 {
   font-size: 25px;
@@ -180,7 +186,7 @@ h3 {
 }
 
 .more-info {
-  font-size: 32px;
+  font-size: 39px;
   position: absolute;
   // bottom: 32px;
   left: 0;
