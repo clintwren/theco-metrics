@@ -14,7 +14,11 @@
 1. open Chromium on launch - https://www.danpurdy.co.uk/web-development/raspberry-pi-kiosk-screen-tutorial/
 1. `sudo nano ~/.config/lxsession/LXDE-pi/autostart` add line at the bottom `/usr/bin/chromium-browser --kiosk --incognito thecometrics.herokuapp.com
 
+##WIP - how to turn the pi and tv off
+- https://www.raspberrypi.org/forums/viewtopic.php?f=29&t=70923
+- https://github.com/Pulse-Eight/libcec
 
+##Making changes to dashboard layout and stats
 Check out Dashing for changes to widgets:
 http://shopify.github.com/dashing
 
