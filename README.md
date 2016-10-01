@@ -34,3 +34,5 @@ http://shopify.github.com/dashing
 - items 3D printed last month
 - countdown until bus departs/arrives again
 - countdown to next event (theCO birthday, COstarters, COmmunicate)
+- [measure amount of coffee left](https://jamesralexander.com/blog/content/measuring-coffee-with-raspberry-pi-a-usb-scale-and-python/)
+- number of lights on @theCO
