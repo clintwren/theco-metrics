@@ -3,4 +3,5 @@ SCHEDULER.every '1m' do
   send_event('members', {value:103})
   send_event('visitors', {value:215})
   send_event('coffee', {value:12.9})
+  send_event('mentoring', {value:2.5})
 end
