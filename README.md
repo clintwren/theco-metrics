@@ -21,6 +21,21 @@
 - https://www.raspberrypi.org/forums/viewtopic.php?f=29&t=70923
 - https://github.com/Pulse-Eight/libcec
 
+
+The TV shutsdown after 6 hours or so. Here is how we are handling this:
+- shutdown at 9pm
+- reboot at 1pm and 5pm
+
+```
+# turn off 1min after 9PM
+1 21 * * * /sbin/shutdown -h now
+
+# reboot at 1pm
+0 0,13 * * * reboot
+# reboot at 5pm
+0 0,17 * * * reboot
+```
+
 ##Making changes to dashboard layout and stats
 Check out Dashing for changes to widgets:
 http://shopify.github.com/dashing
