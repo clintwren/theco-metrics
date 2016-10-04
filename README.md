@@ -1,5 +1,8 @@
 #theCO Metrics Dashboard
 
+##how to update metrics dashboard
+[Watch this screencast](http://bit.ly/2dOjEiI)
+
 ##initial setup in terminal
 1. move into this repo `cd [into-this-repo]`
 1. install Dashing `gem install dashing`
