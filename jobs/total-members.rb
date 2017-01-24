@@ -4,7 +4,7 @@ SCHEDULER.every '10s' do
   					{:x=>3, :y=>114},
   					{:x=>4, :y=>111},
   					{:x=>5, :y=>108},
-  					{:x=>6, :y=>112}
+  					{:x=>6, :y=>116}
   				]
 
   send_event('total-members', points: points)
