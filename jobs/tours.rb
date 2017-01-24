@@ -7,5 +7,5 @@ SCHEDULER.every '10s' do
   					{:x=>6, :y=>24}
   				]
 
-  send_event('tours', points: points)
+  send_event('last-tours', points: points)
 end
