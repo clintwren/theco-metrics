@@ -4,7 +4,8 @@ SCHEDULER.every '10s' do
   					{:x=>3, :y=>150},
   					{:x=>4, :y=>8},
   					{:x=>5, :y=>15},
-  					{:x=>6, :y=>24}
+  					{:x=>6, :y=>24},
+            {:x=>7, :y=>16}
   				]
 
   send_event('last-tours', points: points)
